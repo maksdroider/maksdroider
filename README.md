@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maksdroider
 - 👀 I’m interested in programming, data science and statistics.
 - 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on ...
 
 <!---
 maksdroider/maksdroider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
